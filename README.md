@@ -9,6 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/minWang916](https://github.com/minWang916)
 
+- 💬 Ask me about **AI and Machine Learning**
+
 - 📫 How to reach me **quangdm961@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
