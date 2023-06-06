@@ -1,4 +1,4 @@
-![MasterHead](https://file.miricanvas.com/template_thumb/2021/05/18/12/30/k1y85cqxh7xy4a20/thumb.jpg)
+![MasterHead](https://www.shutterstock.com/image-photo/web-development-concept-person-using-260nw-1890313726.jpg)
 
 <h1 align="center">Hi 👋, I'm Minh Quang</h1>
 <h3 align="center">A passionate tech enthusiast</h3>
