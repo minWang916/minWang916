@@ -1,4 +1,4 @@
-[![MasterHead]([[https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.codecademy.com/resources/blog/wp-content/uploads/2020/08/Header-Image_2083x875-1.png)])]
+[![MasterHead]([[https://www.codecademy.com/resources/blog/wp-content/uploads/2020/08/Header-Image_2083x875-1.png]()])]
 
 <h1 align="center">Hi 👋, I'm Minh Quang</h1>
 <h3 align="center">A passionate tech enthusiast from Viet Nam</h3>
