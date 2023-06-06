@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Minh Quang</h1>
-<h3 align="center">A passionate tech enthusiast</h3>
+<h3 align="center">A passionate tech enthusiast from Viet Nam</h3>
 
 - 🌱 I’m currently learning **Laravel, Django**
 
