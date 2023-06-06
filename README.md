@@ -1,4 +1,4 @@
-![MasterHead](https://innoviet.com/upload/2022/landmark-81-sai-gon-viet-nam.jpg)
+![MasterHead]([https://innoviet.com/upload/2022/landmark-81-sai-gon-viet-nam.jpg](https://file.miricanvas.com/template_thumb/2021/05/18/12/30/k1y85cqxh7xy4a20/thumb.jpg))
 
 <h1 align="center">Hi 👋, I'm Minh Quang</h1>
 <h3 align="center">A passionate tech enthusiast</h3>
