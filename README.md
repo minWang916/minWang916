@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/quang-do-minh-35a5b7228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/quang-do-minh-35a5b7228/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/quang-do-minh-35a5b7228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/quang-do-minh-35a5b7228/" height="30" width="40" /></a>
 <a href="https://fb.com/do.quang.777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="do.quang.777" height="30" width="40" /></a>
 <a href="https://instagram.com/minwang916" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="minwang916" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/minh quang đỗ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="minh quang đỗ" height="30" width="40" /></a>
