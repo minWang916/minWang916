@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/minWang916](https://github.com/minWang916)
 
-- 💬 Ask me about **AI and Machine Learning**
+- 💬 Ask me about **Web Development and Backend**
 
 - 📫 How to reach me **quangdm961@gmail.com**
 
