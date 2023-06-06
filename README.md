@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Laravel, Django**
 
+- 👨‍💻 All of my projects are available at [https://github.com/minWang916](https://github.com/minWang916)
+
 - 📫 How to reach me **quangdm961@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
