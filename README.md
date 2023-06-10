@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Laravel, Django**
 
-- 👨‍💻 All of my projects are available at [https://github.com/minWang916](https://github.com/minWang916)
+- 👨‍💻 All of my projects are available at [[https://github.com/minWang916](https://github.com/minWang916?tab=repositories)]([https://github.com/minWang916](https://github.com/minWang916?tab=repositories))
 
 - 💬 Ask me about **Web Development and Backend**
 
