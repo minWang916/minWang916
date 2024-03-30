@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Laravel, Django**
+- 🌱 I’m currently learning **Data Engineering**
 
 - 👨‍💻 All of my projects are available at https://github.com/minWang916?tab=repositories
 
