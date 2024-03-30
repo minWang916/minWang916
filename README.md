@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/ecd05ac99966614c965fc9500980e211a34b0945d48db5961c3edeae890149c6/68747470733a2f2f692e696d6775722e636f6d2f6561616f61394a2e6a7067)
+![unnamed](https://github.com/minWang916/minWang916/assets/116493016/07946d87-9d7a-4235-8b80-1738985ad9c1)
 
 <h1 align="center">Hi 👋, I'm Minh Quang</h1>
 <h3 align="center">A passionate tech enthusiast coming from Viet Nam</h3>
