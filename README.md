@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Quang</h1>
-<h3 align="center">A passionate tech enthusiast coming from Viet Nam</h3>
+<h3 align="center">A passionate tech enthusiast and part time forex trader</h3>
 
 
 
