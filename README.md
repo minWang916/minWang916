@@ -5,11 +5,11 @@
 
 
 
-- 🌱 I’m currently learning **Data Engineering**
+- 🌱 I’m currently open to internship
 
 - 👨‍💻 All of my projects are available at https://github.com/minWang916?tab=repositories
 
-- 💬 Ask me about **Web Development and Backend**
+- 💬 Ask me about **AI, Web development and Expert Advisor development**
 
 - 📫 How to reach me **quangdm961@gmail.com**
 
