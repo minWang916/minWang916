@@ -27,6 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats-three-theta-80.vercel.app/api/top-langs?username=minwang916&show_icons=true&locale=en&layout=compact" alt="minwang916" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-three-theta-80.vercel.app/api?username=minwang916&show_icons=true&locale=en" alt="minwang916" /></p>
+
 
 
