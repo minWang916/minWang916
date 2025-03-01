@@ -5,11 +5,11 @@
 
 
 
-- 🌱 I’m currently open to internship
+- I’m currently open to internship
 
-- 👨‍💻 All of my projects are available at https://github.com/minWang916?tab=repositories
+- All of my projects are available at https://github.com/minWang916?tab=repositories
 
-- 📫 How to reach me **quangdm961@gmail.com**
+- How to reach me **quangdm961@gmail.com**
 
 <h3 align="left">:mailbox_with_mail: Connect with me:</h3>
 <p align="left">
