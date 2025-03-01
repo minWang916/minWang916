@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Quang</h1>
+<h1 align="center">Hi, I'm Quang</h1>
 <h3 align="center">A passionate tech enthusiast from Viet Nam</h3>
 
 
